@@ -1,0 +1,29 @@
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+.center-image{
+	display: block;
+	margin: 0 auto;
+}
+
+.test-background{
+	--background: #FFFAFA;
+	color: snow;
+}
+
+.test-background{
+	--background: #FFFAFA;
+	color: snow;
+}
+
+.image-circle {
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+}
+
+.my-custom-menu {
+  --width: 500px;
+}
